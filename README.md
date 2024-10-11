@@ -1,6 +1,6 @@
 # 3-DOF-Robotic-Arm-Project
 
-# Inspiratio for this project
+# Inspiration for this project
 
 I was really interested in the math behind inverse kinematics and wanted to begin by first working on 3 DOF Inverse Kinematics and then possibly increase up to 5 DOF.
 I also wanted to apply the theoretical knowledge on electronics and circuits that i learnt in college into a project.
